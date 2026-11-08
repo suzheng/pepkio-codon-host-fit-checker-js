@@ -16,7 +16,7 @@
     }
   },
   "bin": {
-    "pepkio-codon-host-fit-checker": "./dist/cli.js"
+    "pepkio-codon-host-fit-checker": "dist/cli.js"
   },
   "files": [
     "dist",
