@@ -2,6 +2,7 @@
   "name": "pepkio-codon-host-fit-checker",
   "version": "0.1.0",
   "description": "Call the Pepkio Codon Host Fit Checker REST API from Node.js with typed ESM imports, multi-host codon compatibility analysis, and a CLI.",
+  "readme": "README_NPM.md",
   "type": "module",
   "engines": {
     "node": ">=18"
@@ -20,6 +21,7 @@
   "files": [
     "dist",
     "README.md",
+    "README_NPM.md",
     "LICENSE"
   ],
   "scripts": {
